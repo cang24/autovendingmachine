@@ -1,11 +1,11 @@
-package org.kcoder24.tests.changemaking.model.vault;
+package org.cang24.tests.changemaking.model.vault;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.kcoder24.tests.changemaking.model.Dispenser;
+import org.cang24.tests.changemaking.model.Dispenser;
 
 public class ChangeMaker {
 	Map<Cash, Dispenser<Cash>> ticketDispensers;

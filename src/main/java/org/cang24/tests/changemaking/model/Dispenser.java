@@ -1,4 +1,4 @@
-package org.kcoder24.tests.changemaking.model;
+package org.cang24.tests.changemaking.model;
 
 public class Dispenser<T extends ItemValue> {
 	private T model;

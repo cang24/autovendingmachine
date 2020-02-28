@@ -1,9 +1,9 @@
-package org.kcoder24.tests.changemaking.model.vault;
+package org.cang24.tests.changemaking.model.vault;
 
 import java.util.Comparator;
 
-import org.kcoder24.tests.changemaking.model.Dispenser;
-import org.kcoder24.tests.changemaking.model.vault.Cash.CASH_TYPE;
+import org.cang24.tests.changemaking.model.Dispenser;
+import org.cang24.tests.changemaking.model.vault.Cash.CASH_TYPE;
 
 public class CashDispenserComparator implements Comparator<Dispenser<Cash>> {
 

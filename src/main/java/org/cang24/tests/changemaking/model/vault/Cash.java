@@ -1,6 +1,6 @@
-package org.kcoder24.tests.changemaking.model.vault;
+package org.cang24.tests.changemaking.model.vault;
 
-import org.kcoder24.tests.changemaking.model.ItemValue;
+import org.cang24.tests.changemaking.model.ItemValue;
 
 public class Cash implements ItemValue {
 	public enum CASH_TYPE{

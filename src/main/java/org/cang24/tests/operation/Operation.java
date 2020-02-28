@@ -1,12 +1,12 @@
-package org.kcoder24.tests.operation;
+package org.cang24.tests.operation;
 
 import java.util.Map;
 
-import org.kcoder24.tests.changemaking.model.Dispenser;
-import org.kcoder24.tests.changemaking.model.dispenser.Product;
-import org.kcoder24.tests.changemaking.model.vault.Cash;
-import org.kcoder24.tests.changemaking.model.vault.Vault;
-import org.kcoder24.tests.changemaking.ui.MenuManager;
+import org.cang24.tests.changemaking.model.Dispenser;
+import org.cang24.tests.changemaking.model.dispenser.Product;
+import org.cang24.tests.changemaking.model.vault.Cash;
+import org.cang24.tests.changemaking.model.vault.Vault;
+import org.cang24.tests.changemaking.ui.MenuManager;
 
 public abstract class Operation {
 	protected MenuManager menuMgr;

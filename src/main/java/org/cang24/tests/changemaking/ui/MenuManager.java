@@ -1,10 +1,10 @@
-package org.kcoder24.tests.changemaking.ui;
+package org.cang24.tests.changemaking.ui;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.kcoder24.tests.changemaking.model.dispenser.Product;
-import org.kcoder24.tests.changemaking.model.vault.Cash;
+import org.cang24.tests.changemaking.model.dispenser.Product;
+import org.cang24.tests.changemaking.model.vault.Cash;
 
 public class MenuManager {
 	Menu mainMenu;

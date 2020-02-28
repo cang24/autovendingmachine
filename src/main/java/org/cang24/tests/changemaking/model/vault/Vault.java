@@ -1,4 +1,4 @@
-package org.kcoder24.tests.changemaking.model.vault;
+package org.cang24.tests.changemaking.model.vault;
 
 public class Vault {
 	int amount;

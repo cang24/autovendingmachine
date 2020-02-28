@@ -1,4 +1,4 @@
-package org.kcoder24.tests.changemaking.ui;
+package org.cang24.tests.changemaking.ui;
 
 public class MenuOption {
 	int index;

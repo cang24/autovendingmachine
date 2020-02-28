@@ -1,19 +1,19 @@
-package org.kcoder24.tests.changemaking.model;
+package org.cang24.tests.changemaking.model;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.kcoder24.tests.changemaking.model.dispenser.Product;
-import org.kcoder24.tests.changemaking.model.vault.Cash;
-import org.kcoder24.tests.changemaking.model.vault.Cash.CASH_TYPE;
-import org.kcoder24.tests.changemaking.model.vault.ChangeMaker;
-import org.kcoder24.tests.changemaking.model.vault.Vault;
-import org.kcoder24.tests.changemaking.ui.InputReader;
-import org.kcoder24.tests.changemaking.ui.MenuManager;
-import org.kcoder24.tests.operation.ProductRefillOperation;
-import org.kcoder24.tests.operation.SellOperation;
+import org.cang24.tests.changemaking.model.dispenser.Product;
+import org.cang24.tests.changemaking.model.vault.Cash;
+import org.cang24.tests.changemaking.model.vault.ChangeMaker;
+import org.cang24.tests.changemaking.model.vault.Vault;
+import org.cang24.tests.changemaking.model.vault.Cash.CASH_TYPE;
+import org.cang24.tests.changemaking.ui.InputReader;
+import org.cang24.tests.changemaking.ui.MenuManager;
+import org.cang24.tests.operation.ProductRefillOperation;
+import org.cang24.tests.operation.SellOperation;
 
 public class AutoVendingMachine {
 	List<Product> productList;

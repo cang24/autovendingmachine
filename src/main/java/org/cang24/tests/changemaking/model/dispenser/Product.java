@@ -1,6 +1,6 @@
-package org.kcoder24.tests.changemaking.model.dispenser;
+package org.cang24.tests.changemaking.model.dispenser;
 
-import org.kcoder24.tests.changemaking.model.ItemValue;
+import org.cang24.tests.changemaking.model.ItemValue;
 
 public class Product implements ItemValue{
 	private static int idCounter;
